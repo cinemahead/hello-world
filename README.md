@@ -1,2 +1,2 @@
 # hello-world
-cinemahead is a story development studio that makes resources for makers.
+cinemahead is a storydev studio that makes resources for makers.
